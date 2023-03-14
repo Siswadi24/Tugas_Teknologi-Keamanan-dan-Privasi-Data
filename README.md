@@ -1,16 +1,13 @@
-# chift_chipper_aplikasi
+# Tugas ke - 1 Teknologi Keamanan dan Privasi Data
 
-A new Flutter project.
+Hallo everyone, ini adalah sebuah tantangan atau challenge tugas untuk mata kuliah Teknologi Keamanan dan Privasi Data, tugasnya yaitu sebagai berikut :
 
-## Getting Started
+1. Membuat sebuah aplikasi menggunakan bahasa bebas
+2. Menerapkan simetrik kriptografi yaitu :
+    - Shift Chiper
+    - Vigenere Chiper
+3. Untuk Shift Chiper 2 digit terakhir adalah NIM dan untuk Viginere Chiper 3 digit terakhir adalah NIM
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Enjoy ya, jika ada yang ingin ditanyakan atau kritik atau yang lainnya hubungi [email](danaperdanaputra32@gmail.com) atau [LinkedIn](https://www.linkedin.com/in/siswadi-perdana-putra-0b670a22b/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
