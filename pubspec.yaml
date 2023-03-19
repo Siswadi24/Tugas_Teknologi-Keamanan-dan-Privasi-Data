@@ -31,7 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  vigenere_cipher: ^0.2.1
+  email_validator: '^2.1.16'
+  # vigenere_cipher: ^0.2.1
 
 
 

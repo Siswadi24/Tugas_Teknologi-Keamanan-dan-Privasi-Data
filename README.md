@@ -6,6 +6,8 @@ Hallo everyone, ini adalah sebuah tantangan atau challenge tugas untuk mata kuli
 2. Menerapkan simetrik kriptografi yaitu :
     - Shift Chiper
     - Vigenere Chiper
+    - Substitution Chiper
+    - Transposition Chiper
 3. Untuk Shift Chiper 2 digit terakhir adalah NIM dan untuk Viginere Chiper 3 digit terakhir adalah NIM
 
 

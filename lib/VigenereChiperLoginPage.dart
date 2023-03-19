@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class LoginPage extends StatefulWidget {
+class LoginPageVigenereChiper extends StatefulWidget {
   @override
   _LoginPageState createState() => _LoginPageState();
 }
 
-class _LoginPageState extends State<LoginPage> {
+class _LoginPageState extends State<LoginPageVigenereChiper> {
   final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
 
@@ -104,18 +104,18 @@ class _LoginPageState extends State<LoginPage> {
             children: <Widget>[
               TextField(
                 controller: _usernameController,
-                decoration: InputDecoration(hintText: 'Username'),
+                decoration: const InputDecoration(hintText: 'Username'),
               ),
-              SizedBox(height: 16.0),
+              const SizedBox(height: 16.0),
               TextField(
                 controller: _passwordController,
                 obscureText: true,
-                decoration: InputDecoration(hintText: 'Password'),
+                decoration: const InputDecoration(hintText: 'Password'),
               ),
-              SizedBox(height: 16.0),
+              const SizedBox(height: 16.0),
               ElevatedButton(
                 onPressed: _onLoginPressed,
-                child: Text('Login'),
+                child: const Text('Login'),
               ),
             ],
           ),

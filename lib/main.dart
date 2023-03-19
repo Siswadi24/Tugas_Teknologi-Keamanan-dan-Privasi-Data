@@ -1,5 +1,7 @@
 import 'package:chift_chipper_aplikasi/ShiftCipherLoginPage.dart';
+import 'package:chift_chipper_aplikasi/TranspositionChiperLoginPage.dart';
 import 'package:chift_chipper_aplikasi/VigenereChiperLoginPage.dart';
+import 'package:chift_chipper_aplikasi/substitutionChiperLoginPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: LoginPage(),
+      home: TranspositionShiper(),
     );
   }
 }
